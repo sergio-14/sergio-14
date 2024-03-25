@@ -15,14 +15,14 @@
 </div>
 <p align="center">
 
-    <a href="https://www.instagram.com/sercho_14/" target="blank"><img align="center"
+<a href="https://www.instagram.com/sercho_14/" target="blank"><img align="center"
             src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="instagram" height="50" width="50" /></a>
 
-    <a href="https://www.facebook.com/sergio.mamanicalle.75/" target="blank"><img align="center"
+<a href="https://www.facebook.com/sergio.mamanicalle.75/" target="blank"><img align="center"
             src="https://cdn-icons-png.flaticon.com/512/174/174848.png" alt="facebook" height="50" width="50" /></a>
-    <a href="https://elmatadorsergio1234@gmail.com/" target="blank"><img align="center"
-            src=" https://cdn-icons-png.flaticon.com/512/5968/5968534.png " alt="hashnode" height="50" width="50" /></a>
-    <a href="https://" target="blank"><img align="center"
+<a href="https://elmatadorsergio1234@gmail.com/" target="blank"><img align="center"
+            src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail" height="50" width="50" /></a>
+<a href="https://" target="blank"><img align="center"
             src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png"
             alt="discord" height="50" width="50" /></a>
 
@@ -32,7 +32,6 @@
 ## <picture><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px>
 </picture> **About me**
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 <p>
     1: Dominio de tecnologías clave.<br>
     2: Experiencia en frameworks y bibliotecas.<br>
@@ -45,11 +44,6 @@
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-
-<!--- trophy (start) -->
-
-
-<!--h1 without bottom border-->
 <div id="user-content-toc">
     <ul align="center">
         <summary>
@@ -65,19 +59,12 @@
     </a>
 </p>
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<!--icons and links-->
-
-
 <img
     src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## <img
+<img
     src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
     width="25"><b> Skills</b>
-<br>
 <div id="user-content-toc">
     <ul align="center">
         <summary>
@@ -88,7 +75,7 @@
 <p align="center">
     <br>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-        <img src=" https://cdn-icons-png.flaticon.com/512/5968/5968389.png" alt="bootstrap" width="60" height="60" />
+        <img src="https://cdn-icons-png.flaticon.com/512/5968/5968389.png" alt="bootstrap" width="60" height="60" />
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="bootstrap" width="60" height="60" />
@@ -102,17 +89,13 @@
         rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
             alt="html5" width="60" height="60" /> </a>
-
-
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="60" height="60" /> </a>
-
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-            src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png " alt="javascript" width="60" height="60" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+            src="https://cdn-icons-png.flaticon.com/512/5968/5968364.png" alt="sqlserver" width="60" height="60" />
     </a>
-
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
             alt="mysql" width="60" height="60" /> </a> </a> <a href="https://nodejs.org" target="_blank"
         rel="noreferrer"> <img
@@ -143,9 +126,9 @@
 
 <div align="center">
 
-    <a href="https://github.com/sercho-14/">
+<a href="https://github.com/sercho-14/">
        
-        <img src="https://github-readme-stats.vercel.app/api?username=sergio-14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
+<img src="https://github-readme-stats.vercel.app/api?username=sergio-14&theme=dark&hide_border=false&include_all_commits=false&count_private=false&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
             width="450" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergio-14&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
             width="375" alt="0xabdulkhalid" />
@@ -169,7 +152,7 @@
 
 <div align='center'>
 
-    ## <b>¡¡ SOY TREMENDO PROGRAMADOR!!✨</b>
+ <b>¡¡ SOY TREMENDO PROGRAMADOR!!✨</b>
 
 </div>
 <br>
